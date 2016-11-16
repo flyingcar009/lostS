@@ -1,0 +1,2 @@
+# lostS
+study for Scala
